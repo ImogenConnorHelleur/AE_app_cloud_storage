@@ -1,0 +1,1032 @@
+-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 3.0.0     v purrr   0.2.5
+v tibble  1.4.2     v dplyr   0.7.8
+v tidyr   0.8.1     v stringr 1.3.1
+v readr   1.1.1     v forcats 0.3.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Error in curl::curl_fetch_disk(url, x$path, handle = handle) : 
+  Failed to open file C:\WINDOWS\system32\data-raw\sitreps\March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls.
+Calls: <Anonymous> ... request_fetch -> request_fetch.write_disk -> <Anonymous> -> .Call
+Execution halted
+-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 3.0.0     v purrr   0.2.5
+v tibble  1.4.2     v dplyr   0.7.8
+v tidyr   0.8.1     v stringr 1.3.1
+v readr   1.1.1     v forcats 0.3.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Error in curl::curl_fetch_disk(url, x$path, handle = handle) : 
+  Failed to open file C:\WINDOWS\system32\data-raw\sitreps\March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls.
+Calls: <Anonymous> ... request_fetch -> request_fetch.write_disk -> <Anonymous> -> .Call
+Execution halted
+-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 3.0.0     v purrr   0.2.5
+v tibble  1.4.2     v dplyr   0.7.8
+v tidyr   0.8.1     v stringr 1.3.1
+v readr   1.1.1     v forcats 0.3.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Error in curl::curl_fetch_disk(url, x$path, handle = handle) : 
+  Failed to open file C:\WINDOWS\system32\data-raw\sitreps\March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls.
+Calls: <Anonymous> ... request_fetch -> request_fetch.write_disk -> <Anonymous> -> .Call
+Execution halted
+-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 3.0.0     v purrr   0.2.5
+v tibble  1.4.2     v dplyr   0.7.8
+v tidyr   0.8.1     v stringr 1.3.1
+v readr   1.1.1     v forcats 0.3.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Error in curl::curl_fetch_disk(url, x$path, handle = handle) : 
+  Failed to open file C:\WINDOWS\system32\data-raw\sitreps\March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls.
+Calls: <Anonymous> ... request_fetch -> request_fetch.write_disk -> <Anonymous> -> .Call
+Execution halted
+-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 3.0.0     v purrr   0.2.5
+v tibble  1.4.2     v dplyr   0.7.8
+v tidyr   0.8.1     v stringr 1.3.1
+v readr   1.1.1     v forcats 0.3.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Error in curl::curl_fetch_disk(url, x$path, handle = handle) : 
+  Failed to open file C:\WINDOWS\system32\data-raw\sitreps\March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls.
+Calls: <Anonymous> ... request_fetch -> request_fetch.write_disk -> <Anonymous> -> .Call
+Execution halted
+-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 3.0.0     v purrr   0.2.5
+v tibble  1.4.2     v dplyr   0.7.8
+v tidyr   0.8.1     v stringr 1.3.1
+v readr   1.1.1     v forcats 0.3.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Error in curl::curl_fetch_disk(url, x$path, handle = handle) : 
+  Failed to open file C:\WINDOWS\system32\data-raw\sitreps\March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls.
+Calls: <Anonymous> ... request_fetch -> request_fetch.write_disk -> <Anonymous> -> .Call
+Execution halted
+-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 3.0.0     v purrr   0.2.5
+v tibble  1.4.2     v dplyr   0.7.8
+v tidyr   0.8.1     v stringr 1.3.1
+v readr   1.1.1     v forcats 0.3.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Error in curl::curl_fetch_disk(url, x$path, handle = handle) : 
+  Failed to open file C:\WINDOWS\system32\data-raw\sitreps\March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls.
+Calls: <Anonymous> ... request_fetch -> request_fetch.write_disk -> <Anonymous> -> .Call
+Execution halted
+-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 3.0.0     v purrr   0.2.5
+v tibble  1.4.2     v dplyr   0.7.8
+v tidyr   0.8.1     v stringr 1.3.1
+v readr   1.1.1     v forcats 0.3.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Error in curl::curl_fetch_disk(url, x$path, handle = handle) : 
+  Failed to open file C:\WINDOWS\system32\data-raw\sitreps\March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls.
+Calls: <Anonymous> ... request_fetch -> request_fetch.write_disk -> <Anonymous> -> .Call
+Execution halted
+-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 3.0.0     v purrr   0.2.5
+v tibble  1.4.2     v dplyr   0.7.8
+v tidyr   0.8.1     v stringr 1.3.1
+v readr   1.1.1     v forcats 0.3.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2016-AE-by-provider-1Ez1q.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2016-AE-by-provider-1Ez1q.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2018-Revised-13.12.18-AE-by-provider-on8i7.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2018-Revised-13.12.18-AE-by-provider-on8i7.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2015-AE-by-provider-783w5.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2015-AE-by-provider-783w5.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2016-AE-by-provider-qQd8X.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2016-AE-by-provider-qQd8X.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2018-Revised-13.12.18-AE-by-provider-yJLJ2.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2018-Revised-13.12.18-AE-by-provider-yJLJ2.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2015-AE-by-provider-bo8U1-1.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2015-AE-by-provider-bo8U1-1.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2016-AE-by-provider-7dPXU.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2016-AE-by-provider-7dPXU.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2016-AE-by-provider-1gWNy-Revised-11082016.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2016-AE-by-provider-1gWNy-Revised-11082016.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2017-AE-by-provider-q440L.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2017-AE-by-provider-q440L.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2016-AE-by-provider-3rN3I.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2016-AE-by-provider-3rN3I.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2017-AE-by-provider-qD8a6.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2017-AE-by-provider-qD8a6.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2018-AE-by-provider-revised-14.06.18-D44fd-1.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2018-AE-by-provider-revised-14.06.18-D44fd-1.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2015-AE-by-provider-NI2eY.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2015-AE-by-provider-NI2eY.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2016-AE-by-provider-8EDE3.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2016-AE-by-provider-8EDE3.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2018-Revised-13.12.18-AE-by-provider-170ZU.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2018-Revised-13.12.18-AE-by-provider-170ZU.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2016-AE-by-provider-724qv.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2016-AE-by-provider-724qv.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2018-Revised-13.12.18-AE-by-provider-rIo0u.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2018-Revised-13.12.18-AE-by-provider-rIo0u.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2017-AE-by-provider-43JyG.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2017-AE-by-provider-43JyG.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2016-AE-by-provider-7Ov6K.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2016-AE-by-provider-7Ov6K.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2018-Revised-13.12.18-AE-by-provider-HJA4V.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2018-Revised-13.12.18-AE-by-provider-HJA4V.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2015-AE-by-provider-3y91s.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2015-AE-by-provider-3y91s.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2016-AE-by-provider-9OLV9.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2016-AE-by-provider-9OLV9.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2018-AE-by-provider-QvFCs.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2018-AE-by-provider-QvFCs.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2015-AE-by-provider-nK5yY.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2015-AE-by-provider-nK5yY.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2016-AE-by-provider-JThHu.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2016-AE-by-provider-JThHu.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2018-Revised-13.12.18-AE-by-provider-2oQ54.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2018-Revised-13.12.18-AE-by-provider-2oQ54.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2015-AE-by-provider-MyuJm.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2015-AE-by-provider-MyuJm.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2016-AE-by-provider-Cp857.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2016-AE-by-provider-Cp857.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2018-Revised-13.12.18-AE-by-provider-4CTM0.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2018-Revised-13.12.18-AE-by-provider-4CTM0.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/2018-12-18-ED-Weekly-Hospital-Data.csv 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/2018-12-18-ED-Weekly-Hospital-Data.csv 
+Error in file(file, ifelse(append, "a", "w")) : 
+  cannot open the connection
+Calls: write.csv -> eval.parent -> eval -> eval -> write.table -> file
+In addition: Warning message:
+In file(file, ifelse(append, "a", "w")) :
+  cannot open file 'AE_Data_cloud.csv': Permission denied
+Execution halted
+-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 3.0.0     v purrr   0.2.5
+v tibble  1.4.2     v dplyr   0.7.8
+v tidyr   0.8.1     v stringr 1.3.1
+v readr   1.1.1     v forcats 0.3.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2016-AE-by-provider-1Ez1q.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2016-AE-by-provider-1Ez1q.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2018-Revised-13.12.18-AE-by-provider-on8i7.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2018-Revised-13.12.18-AE-by-provider-on8i7.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2015-AE-by-provider-783w5.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2015-AE-by-provider-783w5.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2016-AE-by-provider-qQd8X.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2016-AE-by-provider-qQd8X.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2018-Revised-13.12.18-AE-by-provider-yJLJ2.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2018-Revised-13.12.18-AE-by-provider-yJLJ2.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2015-AE-by-provider-bo8U1-1.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2015-AE-by-provider-bo8U1-1.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2016-AE-by-provider-7dPXU.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2016-AE-by-provider-7dPXU.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2016-AE-by-provider-1gWNy-Revised-11082016.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2016-AE-by-provider-1gWNy-Revised-11082016.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2017-AE-by-provider-q440L.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2017-AE-by-provider-q440L.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2016-AE-by-provider-3rN3I.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2016-AE-by-provider-3rN3I.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2017-AE-by-provider-qD8a6.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2017-AE-by-provider-qD8a6.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2018-AE-by-provider-revised-14.06.18-D44fd-1.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2018-AE-by-provider-revised-14.06.18-D44fd-1.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2015-AE-by-provider-NI2eY.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2015-AE-by-provider-NI2eY.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2016-AE-by-provider-8EDE3.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2016-AE-by-provider-8EDE3.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2018-Revised-13.12.18-AE-by-provider-170ZU.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2018-Revised-13.12.18-AE-by-provider-170ZU.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2016-AE-by-provider-724qv.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2016-AE-by-provider-724qv.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2018-Revised-13.12.18-AE-by-provider-rIo0u.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2018-Revised-13.12.18-AE-by-provider-rIo0u.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2017-AE-by-provider-43JyG.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2017-AE-by-provider-43JyG.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2016-AE-by-provider-7Ov6K.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2016-AE-by-provider-7Ov6K.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2018-Revised-13.12.18-AE-by-provider-HJA4V.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2018-Revised-13.12.18-AE-by-provider-HJA4V.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2015-AE-by-provider-3y91s.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2015-AE-by-provider-3y91s.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2016-AE-by-provider-9OLV9.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2016-AE-by-provider-9OLV9.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2018-AE-by-provider-QvFCs.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2018-AE-by-provider-QvFCs.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2015-AE-by-provider-nK5yY.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2015-AE-by-provider-nK5yY.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2016-AE-by-provider-JThHu.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2016-AE-by-provider-JThHu.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2018-Revised-13.12.18-AE-by-provider-2oQ54.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2018-Revised-13.12.18-AE-by-provider-2oQ54.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2015-AE-by-provider-MyuJm.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2015-AE-by-provider-MyuJm.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2016-AE-by-provider-Cp857.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2016-AE-by-provider-Cp857.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2018-Revised-13.12.18-AE-by-provider-4CTM0.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2018-Revised-13.12.18-AE-by-provider-4CTM0.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/2018-12-18-ED-Weekly-Hospital-Data.csv 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/2018-12-18-ED-Weekly-Hospital-Data.csv 
+Error in file(file, ifelse(append, "a", "w")) : 
+  cannot open the connection
+Calls: write.csv -> eval.parent -> eval -> eval -> write.table -> file
+In addition: Warning message:
+In file(file, ifelse(append, "a", "w")) :
+  cannot open file 'AE_Data_cloud.csv': Permission denied
+Execution halted
+-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 3.0.0     v purrr   0.2.5
+v tibble  1.4.2     v dplyr   0.7.8
+v tidyr   0.8.1     v stringr 1.3.1
+v readr   1.1.1     v forcats 0.3.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2016-AE-by-provider-1Ez1q.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2016-AE-by-provider-1Ez1q.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2018-Revised-13.12.18-AE-by-provider-on8i7.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2018-Revised-13.12.18-AE-by-provider-on8i7.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2015-AE-by-provider-783w5.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2015-AE-by-provider-783w5.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2016-AE-by-provider-qQd8X.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2016-AE-by-provider-qQd8X.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2018-Revised-13.12.18-AE-by-provider-yJLJ2.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2018-Revised-13.12.18-AE-by-provider-yJLJ2.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2015-AE-by-provider-bo8U1-1.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2015-AE-by-provider-bo8U1-1.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2016-AE-by-provider-7dPXU.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2016-AE-by-provider-7dPXU.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2016-AE-by-provider-1gWNy-Revised-11082016.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2016-AE-by-provider-1gWNy-Revised-11082016.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2017-AE-by-provider-q440L.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2017-AE-by-provider-q440L.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2016-AE-by-provider-3rN3I.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2016-AE-by-provider-3rN3I.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2017-AE-by-provider-qD8a6.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2017-AE-by-provider-qD8a6.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2018-AE-by-provider-revised-14.06.18-D44fd-1.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2018-AE-by-provider-revised-14.06.18-D44fd-1.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2015-AE-by-provider-NI2eY.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2015-AE-by-provider-NI2eY.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2016-AE-by-provider-8EDE3.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2016-AE-by-provider-8EDE3.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2018-Revised-13.12.18-AE-by-provider-170ZU.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2018-Revised-13.12.18-AE-by-provider-170ZU.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2016-AE-by-provider-724qv.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2016-AE-by-provider-724qv.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2018-Revised-13.12.18-AE-by-provider-rIo0u.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2018-Revised-13.12.18-AE-by-provider-rIo0u.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2017-AE-by-provider-43JyG.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2017-AE-by-provider-43JyG.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2016-AE-by-provider-7Ov6K.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2016-AE-by-provider-7Ov6K.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2018-Revised-13.12.18-AE-by-provider-HJA4V.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2018-Revised-13.12.18-AE-by-provider-HJA4V.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2015-AE-by-provider-3y91s.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2015-AE-by-provider-3y91s.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2016-AE-by-provider-9OLV9.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2016-AE-by-provider-9OLV9.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2018-AE-by-provider-QvFCs.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2018-AE-by-provider-QvFCs.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2015-AE-by-provider-nK5yY.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2015-AE-by-provider-nK5yY.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2016-AE-by-provider-JThHu.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2016-AE-by-provider-JThHu.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2018-Revised-13.12.18-AE-by-provider-2oQ54.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2018-Revised-13.12.18-AE-by-provider-2oQ54.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2015-AE-by-provider-MyuJm.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2015-AE-by-provider-MyuJm.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2016-AE-by-provider-Cp857.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2016-AE-by-provider-Cp857.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2018-Revised-13.12.18-AE-by-provider-4CTM0.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2018-Revised-13.12.18-AE-by-provider-4CTM0.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/2018-12-18-ED-Weekly-Hospital-Data.csv 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/2018-12-18-ED-Weekly-Hospital-Data.csv 
+Error: Failed to create local cache ('.httr-oauth')
+Execution halted
+
+^C^C-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 3.0.0     v purrr   0.2.5
+v tibble  1.4.2     v dplyr   0.7.8
+v tidyr   0.8.1     v stringr 1.3.1
+v readr   1.1.1     v forcats 0.3.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2016-AE-by-provider-1Ez1q.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2016-AE-by-provider-1Ez1q.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2018-Revised-13.12.18-AE-by-provider-on8i7.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2018-Revised-13.12.18-AE-by-provider-on8i7.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2015-AE-by-provider-783w5.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2015-AE-by-provider-783w5.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2016-AE-by-provider-qQd8X.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2016-AE-by-provider-qQd8X.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2018-Revised-13.12.18-AE-by-provider-yJLJ2.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2018-Revised-13.12.18-AE-by-provider-yJLJ2.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2015-AE-by-provider-bo8U1-1.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2015-AE-by-provider-bo8U1-1.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2016-AE-by-provider-7dPXU.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2016-AE-by-provider-7dPXU.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2016-AE-by-provider-1gWNy-Revised-11082016.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2016-AE-by-provider-1gWNy-Revised-11082016.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2017-AE-by-provider-q440L.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2017-AE-by-provider-q440L.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2016-AE-by-provider-3rN3I.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2016-AE-by-provider-3rN3I.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2017-AE-by-provider-qD8a6.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2017-AE-by-provider-qD8a6.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2018-AE-by-provider-revised-14.06.18-D44fd-1.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2018-AE-by-provider-revised-14.06.18-D44fd-1.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2015-AE-by-provider-NI2eY.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2015-AE-by-provider-NI2eY.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2016-AE-by-provider-8EDE3.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2016-AE-by-provider-8EDE3.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2018-Revised-13.12.18-AE-by-provider-170ZU.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2018-Revised-13.12.18-AE-by-provider-170ZU.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2016-AE-by-provider-724qv.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2016-AE-by-provider-724qv.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2018-Revised-13.12.18-AE-by-provider-rIo0u.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2018-Revised-13.12.18-AE-by-provider-rIo0u.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2017-AE-by-provider-43JyG.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2017-AE-by-provider-43JyG.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2016-AE-by-provider-7Ov6K.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2016-AE-by-provider-7Ov6K.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2018-Revised-13.12.18-AE-by-provider-HJA4V.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2018-Revised-13.12.18-AE-by-provider-HJA4V.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2015-AE-by-provider-3y91s.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2015-AE-by-provider-3y91s.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2016-AE-by-provider-9OLV9.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2016-AE-by-provider-9OLV9.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2018-AE-by-provider-QvFCs.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2018-AE-by-provider-QvFCs.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2015-AE-by-provider-nK5yY.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2015-AE-by-provider-nK5yY.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2016-AE-by-provider-JThHu.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2016-AE-by-provider-JThHu.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2018-Revised-13.12.18-AE-by-provider-2oQ54.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2018-Revised-13.12.18-AE-by-provider-2oQ54.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2015-AE-by-provider-MyuJm.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2015-AE-by-provider-MyuJm.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2016-AE-by-provider-Cp857.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2016-AE-by-provider-Cp857.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2018-Revised-13.12.18-AE-by-provider-4CTM0.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2018-Revised-13.12.18-AE-by-provider-4CTM0.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/2018-12-18-ED-Weekly-Hospital-Data.csv 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/2018-12-18-ED-Weekly-Hospital-Data.csv 
+Worksheets feed constructed with public visibility
+Error in stop_for_content_type(req, expected = "application/atom+xml; charset=UTF-8") : 
+  Expected content-type:
+application/atom+xml; charset=UTF-8
+Actual content-type:
+text/html; charset=UTF-8
+Calls: gs_key ... as.googlesheet.ws_feed -> content_as_xml_UTF8 -> stop_for_content_type
+Execution halted
+-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 3.0.0     v purrr   0.2.5
+v tibble  1.4.2     v dplyr   0.7.8
+v tidyr   0.8.1     v stringr 1.3.1
+v readr   1.1.1     v forcats 0.3.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2016-AE-by-provider-1Ez1q.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2016-AE-by-provider-1Ez1q.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2018-Revised-13.12.18-AE-by-provider-on8i7.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2018-Revised-13.12.18-AE-by-provider-on8i7.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2015-AE-by-provider-783w5.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2015-AE-by-provider-783w5.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2016-AE-by-provider-qQd8X.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2016-AE-by-provider-qQd8X.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2018-Revised-13.12.18-AE-by-provider-yJLJ2.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2018-Revised-13.12.18-AE-by-provider-yJLJ2.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2015-AE-by-provider-bo8U1-1.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2015-AE-by-provider-bo8U1-1.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2016-AE-by-provider-7dPXU.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2016-AE-by-provider-7dPXU.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2016-AE-by-provider-1gWNy-Revised-11082016.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2016-AE-by-provider-1gWNy-Revised-11082016.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2017-AE-by-provider-q440L.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2017-AE-by-provider-q440L.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2016-AE-by-provider-3rN3I.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2016-AE-by-provider-3rN3I.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2017-AE-by-provider-qD8a6.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2017-AE-by-provider-qD8a6.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2018-AE-by-provider-revised-14.06.18-D44fd-1.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2018-AE-by-provider-revised-14.06.18-D44fd-1.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2015-AE-by-provider-NI2eY.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2015-AE-by-provider-NI2eY.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2016-AE-by-provider-8EDE3.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2016-AE-by-provider-8EDE3.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2018-Revised-13.12.18-AE-by-provider-170ZU.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2018-Revised-13.12.18-AE-by-provider-170ZU.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2016-AE-by-provider-724qv.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2016-AE-by-provider-724qv.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2018-Revised-13.12.18-AE-by-provider-rIo0u.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2018-Revised-13.12.18-AE-by-provider-rIo0u.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2017-AE-by-provider-43JyG.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2017-AE-by-provider-43JyG.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2016-AE-by-provider-7Ov6K.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2016-AE-by-provider-7Ov6K.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2018-Revised-13.12.18-AE-by-provider-HJA4V.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2018-Revised-13.12.18-AE-by-provider-HJA4V.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2015-AE-by-provider-3y91s.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2015-AE-by-provider-3y91s.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2016-AE-by-provider-9OLV9.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2016-AE-by-provider-9OLV9.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2018-AE-by-provider-QvFCs.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2018-AE-by-provider-QvFCs.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2015-AE-by-provider-nK5yY.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2015-AE-by-provider-nK5yY.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2016-AE-by-provider-JThHu.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2016-AE-by-provider-JThHu.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2018-Revised-13.12.18-AE-by-provider-2oQ54.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2018-Revised-13.12.18-AE-by-provider-2oQ54.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2015-AE-by-provider-MyuJm.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2015-AE-by-provider-MyuJm.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2016-AE-by-provider-Cp857.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2016-AE-by-provider-Cp857.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2018-Revised-13.12.18-AE-by-provider-4CTM0.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2018-Revised-13.12.18-AE-by-provider-4CTM0.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/2018-12-18-ED-Weekly-Hospital-Data.csv 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/2018-12-18-ED-Weekly-Hospital-Data.csv 
+Worksheets feed constructed with public visibility
+Error in stop_for_content_type(req, expected = "application/atom+xml; charset=UTF-8") : 
+  Expected content-type:
+application/atom+xml; charset=UTF-8
+Actual content-type:
+text/html; charset=UTF-8
+Calls: gs_key ... as.googlesheet.ws_feed -> content_as_xml_UTF8 -> stop_for_content_type
+Execution halted
+-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 3.0.0     v purrr   0.2.5
+v tibble  1.4.2     v dplyr   0.7.8
+v tidyr   0.8.1     v stringr 1.3.1
+v readr   1.1.1     v forcats 0.3.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2016-AE-by-provider-1Ez1q.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2016-AE-by-provider-1Ez1q.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2018-Revised-13.12.18-AE-by-provider-on8i7.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2018-Revised-13.12.18-AE-by-provider-on8i7.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2015-AE-by-provider-783w5.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2015-AE-by-provider-783w5.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2016-AE-by-provider-qQd8X.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2016-AE-by-provider-qQd8X.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2018-Revised-13.12.18-AE-by-provider-yJLJ2.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2018-Revised-13.12.18-AE-by-provider-yJLJ2.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2015-AE-by-provider-bo8U1-1.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2015-AE-by-provider-bo8U1-1.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2016-AE-by-provider-7dPXU.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2016-AE-by-provider-7dPXU.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2016-AE-by-provider-1gWNy-Revised-11082016.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2016-AE-by-provider-1gWNy-Revised-11082016.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2017-AE-by-provider-q440L.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2017-AE-by-provider-q440L.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2016-AE-by-provider-3rN3I.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2016-AE-by-provider-3rN3I.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2017-AE-by-provider-qD8a6.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2017-AE-by-provider-qD8a6.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2018-AE-by-provider-revised-14.06.18-D44fd-1.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2018-AE-by-provider-revised-14.06.18-D44fd-1.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2015-AE-by-provider-NI2eY.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2015-AE-by-provider-NI2eY.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2016-AE-by-provider-8EDE3.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2016-AE-by-provider-8EDE3.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2018-Revised-13.12.18-AE-by-provider-170ZU.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2018-Revised-13.12.18-AE-by-provider-170ZU.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2016-AE-by-provider-724qv.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2016-AE-by-provider-724qv.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2018-Revised-13.12.18-AE-by-provider-rIo0u.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2018-Revised-13.12.18-AE-by-provider-rIo0u.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2017-AE-by-provider-43JyG.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2017-AE-by-provider-43JyG.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2016-AE-by-provider-7Ov6K.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2016-AE-by-provider-7Ov6K.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2018-Revised-13.12.18-AE-by-provider-HJA4V.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2018-Revised-13.12.18-AE-by-provider-HJA4V.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2015-AE-by-provider-3y91s.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2015-AE-by-provider-3y91s.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2016-AE-by-provider-9OLV9.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2016-AE-by-provider-9OLV9.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2018-AE-by-provider-QvFCs.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2018-AE-by-provider-QvFCs.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2015-AE-by-provider-nK5yY.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2015-AE-by-provider-nK5yY.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2016-AE-by-provider-JThHu.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2016-AE-by-provider-JThHu.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2018-Revised-13.12.18-AE-by-provider-2oQ54.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2018-Revised-13.12.18-AE-by-provider-2oQ54.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2015-AE-by-provider-MyuJm.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2015-AE-by-provider-MyuJm.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2016-AE-by-provider-Cp857.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2016-AE-by-provider-Cp857.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2018-Revised-13.12.18-AE-by-provider-4CTM0.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2018-Revised-13.12.18-AE-by-provider-4CTM0.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/2018-12-18-ED-Weekly-Hospital-Data.csv 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/2018-12-18-ED-Weekly-Hospital-Data.csv 
+Worksheets feed constructed with public visibility
+Error in stop_for_content_type(req, expected = "application/atom+xml; charset=UTF-8") : 
+  Expected content-type:
+application/atom+xml; charset=UTF-8
+Actual content-type:
+text/html; charset=UTF-8
+Calls: gs_key ... as.googlesheet.ws_feed -> content_as_xml_UTF8 -> stop_for_content_type
+Execution halted
+-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 3.0.0     v purrr   0.2.5
+v tibble  1.4.2     v dplyr   0.7.8
+v tidyr   0.8.1     v stringr 1.3.1
+v readr   1.1.1     v forcats 0.3.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2016-AE-by-provider-1Ez1q.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2016-AE-by-provider-1Ez1q.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2018-Revised-13.12.18-AE-by-provider-on8i7.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2018-Revised-13.12.18-AE-by-provider-on8i7.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2015-AE-by-provider-783w5.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2015-AE-by-provider-783w5.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2016-AE-by-provider-qQd8X.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2016-AE-by-provider-qQd8X.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2018-Revised-13.12.18-AE-by-provider-yJLJ2.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2018-Revised-13.12.18-AE-by-provider-yJLJ2.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2015-AE-by-provider-bo8U1-1.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2015-AE-by-provider-bo8U1-1.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2016-AE-by-provider-7dPXU.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2016-AE-by-provider-7dPXU.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2016-AE-by-provider-1gWNy-Revised-11082016.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2016-AE-by-provider-1gWNy-Revised-11082016.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2017-AE-by-provider-q440L.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2017-AE-by-provider-q440L.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2016-AE-by-provider-3rN3I.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2016-AE-by-provider-3rN3I.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2017-AE-by-provider-qD8a6.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2017-AE-by-provider-qD8a6.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2018-AE-by-provider-revised-14.06.18-D44fd-1.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2018-AE-by-provider-revised-14.06.18-D44fd-1.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2015-AE-by-provider-NI2eY.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2015-AE-by-provider-NI2eY.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2016-AE-by-provider-8EDE3.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2016-AE-by-provider-8EDE3.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2018-Revised-13.12.18-AE-by-provider-170ZU.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2018-Revised-13.12.18-AE-by-provider-170ZU.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2016-AE-by-provider-724qv.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2016-AE-by-provider-724qv.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2018-Revised-13.12.18-AE-by-provider-rIo0u.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2018-Revised-13.12.18-AE-by-provider-rIo0u.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2017-AE-by-provider-43JyG.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2017-AE-by-provider-43JyG.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2016-AE-by-provider-7Ov6K.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2016-AE-by-provider-7Ov6K.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2018-Revised-13.12.18-AE-by-provider-HJA4V.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2018-Revised-13.12.18-AE-by-provider-HJA4V.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2015-AE-by-provider-3y91s.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2015-AE-by-provider-3y91s.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2016-AE-by-provider-9OLV9.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2016-AE-by-provider-9OLV9.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2018-AE-by-provider-QvFCs.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2018-AE-by-provider-QvFCs.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2015-AE-by-provider-nK5yY.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2015-AE-by-provider-nK5yY.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2016-AE-by-provider-JThHu.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2016-AE-by-provider-JThHu.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2018-Revised-13.12.18-AE-by-provider-2oQ54.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2018-Revised-13.12.18-AE-by-provider-2oQ54.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2015-AE-by-provider-MyuJm.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2015-AE-by-provider-MyuJm.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2016-AE-by-provider-Cp857.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2016-AE-by-provider-Cp857.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2018-Revised-13.12.18-AE-by-provider-4CTM0.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2018-Revised-13.12.18-AE-by-provider-4CTM0.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/2018-12-18-ED-Weekly-Hospital-Data.csv 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/2018-12-18-ED-Weekly-Hospital-Data.csv 
+Worksheets feed constructed with public visibility
+                  Spreadsheet title: AE_Data_cloud
+                 Spreadsheet author: clahrcnwl614
+  Date of googlesheets registration: 2018-12-21 12:02:27 GMT
+    Date of last spreadsheet update: 2018-12-21 11:24:30 GMT
+                         visibility: public
+                        permissions: rw
+                            version: new
+
+Contains 1 worksheets:
+(Title): (Nominal worksheet extent as rows x columns)
+AE_Data_cloud: 9989 x 24
+
+Key: 1UGp3yYPigdO-qNYcaQtTScLmov9ojrZUZ3eQyCQA018
+Browser URL: https://docs.google.com/spreadsheets/d/1UGp3yYPigdO-qNYcaQtTScLmov9ojrZUZ3eQyCQA018/
+Error in file(file, ifelse(append, "a", "w")) : 
+  cannot open the connection
+Calls: write.csv -> eval.parent -> eval -> eval -> write.table -> file
+In addition: Warning message:
+In file(file, ifelse(append, "a", "w")) :
+  cannot open file 'AE_Data_cloud.csv': Permission denied
+Execution halted
+-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 3.0.0     v purrr   0.2.5
+v tibble  1.4.2     v dplyr   0.7.8
+v tidyr   0.8.1     v stringr 1.3.1
+v readr   1.1.1     v forcats 0.3.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2016-AE-by-provider-1Ez1q.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2016-AE-by-provider-1Ez1q.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2018-Revised-13.12.18-AE-by-provider-on8i7.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2018-Revised-13.12.18-AE-by-provider-on8i7.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2015-AE-by-provider-783w5.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2015-AE-by-provider-783w5.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2016-AE-by-provider-qQd8X.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2016-AE-by-provider-qQd8X.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2018-Revised-13.12.18-AE-by-provider-yJLJ2.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2018-Revised-13.12.18-AE-by-provider-yJLJ2.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2015-AE-by-provider-bo8U1-1.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2015-AE-by-provider-bo8U1-1.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2016-AE-by-provider-7dPXU.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2016-AE-by-provider-7dPXU.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2016-AE-by-provider-1gWNy-Revised-11082016.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2016-AE-by-provider-1gWNy-Revised-11082016.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2017-AE-by-provider-q440L.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2017-AE-by-provider-q440L.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2016-AE-by-provider-3rN3I.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2016-AE-by-provider-3rN3I.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2017-AE-by-provider-qD8a6.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2017-AE-by-provider-qD8a6.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2018-AE-by-provider-revised-14.06.18-D44fd-1.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2018-AE-by-provider-revised-14.06.18-D44fd-1.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2015-AE-by-provider-NI2eY.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2015-AE-by-provider-NI2eY.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2016-AE-by-provider-8EDE3.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2016-AE-by-provider-8EDE3.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2018-Revised-13.12.18-AE-by-provider-170ZU.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2018-Revised-13.12.18-AE-by-provider-170ZU.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2016-AE-by-provider-724qv.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2016-AE-by-provider-724qv.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2018-Revised-13.12.18-AE-by-provider-rIo0u.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2018-Revised-13.12.18-AE-by-provider-rIo0u.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2017-AE-by-provider-43JyG.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2017-AE-by-provider-43JyG.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2016-AE-by-provider-7Ov6K.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2016-AE-by-provider-7Ov6K.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2018-Revised-13.12.18-AE-by-provider-HJA4V.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2018-Revised-13.12.18-AE-by-provider-HJA4V.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2015-AE-by-provider-3y91s.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2015-AE-by-provider-3y91s.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2016-AE-by-provider-9OLV9.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2016-AE-by-provider-9OLV9.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2018-AE-by-provider-QvFCs.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2018-AE-by-provider-QvFCs.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2015-AE-by-provider-nK5yY.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2015-AE-by-provider-nK5yY.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2016-AE-by-provider-JThHu.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2016-AE-by-provider-JThHu.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2018-Revised-13.12.18-AE-by-provider-2oQ54.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2018-Revised-13.12.18-AE-by-provider-2oQ54.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2015-AE-by-provider-MyuJm.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2015-AE-by-provider-MyuJm.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2016-AE-by-provider-Cp857.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2016-AE-by-provider-Cp857.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2018-Revised-13.12.18-AE-by-provider-4CTM0.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2018-Revised-13.12.18-AE-by-provider-4CTM0.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/2018-12-18-ED-Weekly-Hospital-Data.csv 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/2018-12-18-ED-Weekly-Hospital-Data.csv 
+Worksheets feed constructed with public visibility
+                  Spreadsheet title: AE_Data_cloud
+                 Spreadsheet author: clahrcnwl614
+  Date of googlesheets registration: 2018-12-21 12:28:19 GMT
+    Date of last spreadsheet update: 2018-12-21 12:20:45 GMT
+                         visibility: public
+                        permissions: rw
+                            version: new
+
+Contains 1 worksheets:
+(Title): (Nominal worksheet extent as rows x columns)
+AE_Data_cloud: 9989 x 24
+
+Key: 1UGp3yYPigdO-qNYcaQtTScLmov9ojrZUZ3eQyCQA018
+Browser URL: https://docs.google.com/spreadsheets/d/1UGp3yYPigdO-qNYcaQtTScLmov9ojrZUZ3eQyCQA018/
+Error in file(file, ifelse(append, "a", "w")) : 
+  cannot open the connection
+Calls: write.csv -> eval.parent -> eval -> eval -> write.table -> file
+In addition: Warning message:
+In file(file, ifelse(append, "a", "w")) :
+  cannot open file 'AE_Data_cloud.csv': Permission denied
+Execution halted
+^C^C-- Attaching packages --------------------------------------- tidyverse 1.2.1 --
+v ggplot2 3.0.0     v purrr   0.2.5
+v tibble  1.4.2     v dplyr   0.7.8
+v tidyr   0.8.1     v stringr 1.3.1
+v readr   1.1.1     v forcats 0.3.0
+-- Conflicts ------------------------------------------ tidyverse_conflicts() --
+x dplyr::filter() masks stats::filter()
+x dplyr::lag()    masks stats::lag()
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2016-AE-by-provider-1Ez1q.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2016-AE-by-provider-1Ez1q.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2018-Revised-13.12.18-AE-by-provider-on8i7.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/April-2018-Revised-13.12.18-AE-by-provider-on8i7.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2015-AE-by-provider-783w5.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2015-AE-by-provider-783w5.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2016-AE-by-provider-qQd8X.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2016-AE-by-provider-qQd8X.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2018-Revised-13.12.18-AE-by-provider-yJLJ2.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/August-2018-Revised-13.12.18-AE-by-provider-yJLJ2.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2015-AE-by-provider-bo8U1-1.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2015-AE-by-provider-bo8U1-1.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2016-AE-by-provider-7dPXU.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2016-AE-by-provider-7dPXU.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/December-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2016-AE-by-provider-1gWNy-Revised-11082016.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2016-AE-by-provider-1gWNy-Revised-11082016.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2017-AE-by-provider-q440L.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2017-AE-by-provider-q440L.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/February-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2016-AE-by-provider-3rN3I.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2016-AE-by-provider-3rN3I.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2017-AE-by-provider-qD8a6.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2017-AE-by-provider-qD8a6.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2018-AE-by-provider-revised-14.06.18-D44fd-1.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/January-2018-AE-by-provider-revised-14.06.18-D44fd-1.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2015-AE-by-provider-NI2eY.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2015-AE-by-provider-NI2eY.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2016-AE-by-provider-8EDE3.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2016-AE-by-provider-8EDE3.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2018-Revised-13.12.18-AE-by-provider-170ZU.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/July-2018-Revised-13.12.18-AE-by-provider-170ZU.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2016-AE-by-provider-724qv.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2016-AE-by-provider-724qv.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2018-Revised-13.12.18-AE-by-provider-rIo0u.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/June-2018-Revised-13.12.18-AE-by-provider-rIo0u.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2016-AE-by-provider-9g0dQ-Revised-11082016.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2017-AE-by-provider-43JyG.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2017-AE-by-provider-43JyG.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/March-2018-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2016-AE-by-provider-7Ov6K.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2016-AE-by-provider-7Ov6K.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2018-Revised-13.12.18-AE-by-provider-HJA4V.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/May-2018-Revised-13.12.18-AE-by-provider-HJA4V.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2015-AE-by-provider-3y91s.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2015-AE-by-provider-3y91s.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2016-AE-by-provider-9OLV9.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2016-AE-by-provider-9OLV9.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2018-AE-by-provider-QvFCs.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/November-2018-AE-by-provider-QvFCs.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2015-AE-by-provider-nK5yY.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2015-AE-by-provider-nK5yY.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2016-AE-by-provider-JThHu.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2016-AE-by-provider-JThHu.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2018-Revised-13.12.18-AE-by-provider-2oQ54.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/October-2018-Revised-13.12.18-AE-by-provider-2oQ54.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2015-AE-by-provider-MyuJm.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2015-AE-by-provider-MyuJm.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2016-AE-by-provider-Cp857.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2016-AE-by-provider-Cp857.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2017-AE-by-provider-revised-14.06.18-D44fd.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2018-Revised-13.12.18-AE-by-provider-4CTM0.xls 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/September-2018-Revised-13.12.18-AE-by-provider-4CTM0.xls 
+Loading:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/2018-12-18-ED-Weekly-Hospital-Data.csv 
+Success loaded:  C:/Users/iconnorh/Desktop/Imogen/Rprojects/AE_app_cloud_storage/data-raw/sitreps/2018-12-18-ED-Weekly-Hospital-Data.csv 
+Worksheets feed constructed with public visibility
+                  Spreadsheet title: AE_Data_cloud
+                 Spreadsheet author: clahrcnwl614
+  Date of googlesheets registration: 2018-12-21 13:06:23 GMT
+    Date of last spreadsheet update: 2018-12-21 12:20:45 GMT
+                         visibility: public
+                        permissions: rw
+                            version: new
+
+Contains 1 worksheets:
+(Title): (Nominal worksheet extent as rows x columns)
+AE_Data_cloud: 9989 x 24
+
+Key: 1UGp3yYPigdO-qNYcaQtTScLmov9ojrZUZ3eQyCQA018
+Browser URL: https://docs.google.com/spreadsheets/d/1UGp3yYPigdO-qNYcaQtTScLmov9ojrZUZ3eQyCQA018/
+Error in file(file, ifelse(append, "a", "w")) : 
+  cannot open the connection
+Calls: write.csv -> eval.parent -> eval -> eval -> write.table -> file
+In addition: Warning message:
+In file(file, ifelse(append, "a", "w")) :
+  cannot open file 'AE_Data_cloud.csv': Permission denied
+Execution halted
+^C^C
